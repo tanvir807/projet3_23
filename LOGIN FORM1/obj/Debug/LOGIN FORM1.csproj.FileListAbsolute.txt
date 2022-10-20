@@ -1,0 +1,12 @@
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN FORM1.csproj.AssemblyReference.cache
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN FORM1.csproj.SuggestedBindingRedirects.cache
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN_FORM1.Form1.resources
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN_FORM1.Main.resources
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN_FORM1.Properties.Resources.resources
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN FORM1.csproj.GenerateResource.cache
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN FORM1.csproj.CoreCompileInputs.cache
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\bin\Debug\LOGIN FORM1.exe.config
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\bin\Debug\LOGIN FORM1.exe
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\bin\Debug\LOGIN FORM1.pdb
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN FORM1.exe
+C:\Users\A Ibrahim\Desktop\LOGIN FORM1\LOGIN FORM1\obj\Debug\LOGIN FORM1.pdb
